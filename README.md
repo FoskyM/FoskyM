@@ -1,13 +1,24 @@
 ## 关于 耗子
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://i-coder.top)
-<img src="https://github-readme-stats.vercel.app/api?username=mouse123s&count_private=true&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mouse123s&count_private=true&show_icons=true">
 
+> 大一在读学生，本想报计算机然后阴差阳错选了数据科学与大数据技术这门专业，头快学秃了\
+> 单身狗一条，不想要爱情\
+> 平常写写代码、打打游戏、摸摸鱼
+
+> 总是研究感兴趣的新事物\
+> <s>导致老是挖坑到现在都没填完</s>
+
+> 写码时很认真\
+> <s>于是总是失联</s>
+
+> 偶尔追剧、追小说\
+> <s>一追起来就忘了填坑</s>
 ---
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Programming Languages") Programming Languages
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouse123s&layout=compact">
-
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=eeeeee&logo=PHP&logoColor=00599C&label= "PHP")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=eeeeee&logo=Vue.js&logoColor=4FC08D&label= "Vue.js")
@@ -25,6 +36,16 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Android%20Studio&color=eeeeee&logo=AndroidStudio&logoColor=3DDC84&label= "Android Studio")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=eeeeee&logo=Visual%20Studio%20Code&logoColor=007ACC&label= "Visual Studio Code")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=HBuilderX&color=eeeeee&logo=HTML5&logoColor=1aa034&label= "HBuilderX")
+
+
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/issue-closed-24.svg "Others") Others
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Office&color=eeeeee&logo=Microsoft%20Office&logoColor=D83B01&label= "Microsoft Office")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Photoshop&color=eeeeee&logo=Adobe%20Photoshop&logoColor=31A8FF&label= "Photoshop")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Premiere&color=eeeeee&logo=Adobe%20Premiere%20Pro&logoColor=9999FF&label= "Premiere")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=After%20Effects&color=eeeeee&logo=Adobe%20After%20Effects&logoColor=9999FF&label= "After Effects")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Audition&color=eeeeee&logo=Adobe%20Audition&logoColor=9999FF&label= "Audition")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=eeeeee&logo=Steam&logoColor=000000&label= "Steam")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Epic%20Games&color=eeeeee&logo=Epic%20Games&logoColor=313131&label= "Epic Games")
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Operating Systems") Operating Systems
 
