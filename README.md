@@ -1,7 +1,7 @@
 ## 关于
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://i-coder.top)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mouse123s&count_private=true&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=FoskyM&count_private=true&show_icons=true">
 
 > 大一在读学生，本想报计算机然后阴差阳错选了数据科学与大数据技术这门专业，头快学秃了\
 > 单身狗一条，不想要爱情\
@@ -18,7 +18,7 @@
 ---
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Programming Languages") Programming Languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouse123s&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoskyM&layout=compact">
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=eeeeee&logo=PHP&logoColor=00599C&label= "PHP")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=eeeeee&logo=Vue.js&logoColor=4FC08D&label= "Vue.js")
