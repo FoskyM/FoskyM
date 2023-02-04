@@ -1,4 +1,4 @@
-## 关于 耗子
+## 关于
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://i-coder.top)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mouse123s&count_private=true&show_icons=true">
