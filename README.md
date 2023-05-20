@@ -3,7 +3,7 @@
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://i-coder.top)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FoskyM&count_private=true&show_icons=true">
 
-> 大一在读学生，本想报计算机然后阴差阳错选了数据科学与大数据技术这门专业，头快学秃了\
+> 在读学生，大数据专业，头快学秃了\
 > 单身狗一条，不想要爱情\
 > 平常写写代码、打打游戏、摸摸鱼
 
