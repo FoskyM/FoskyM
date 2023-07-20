@@ -3,9 +3,14 @@
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://i-coder.top)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FoskyM&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC">
 
-> 平常写写代码、打打游戏、摸摸鱼
+> 平常写写代码、打打游戏、摸摸鱼\
 > 偶尔看看小说
+
+> 有时会剪剪视频\
 > 啥也不是
+
+> 要么一下子疯狂干\
+> 要么一直摆烂
 
 ---
 
