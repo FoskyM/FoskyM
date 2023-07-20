@@ -3,18 +3,8 @@
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://i-coder.top)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=FoskyM&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC">
 
-> 在读学生，大数据专业，头快学秃了\
-> 单身狗一条，不想要爱情\
 > 平常写写代码、打打游戏、摸摸鱼
 
-> 总是研究感兴趣的新事物\
-> <s>导致老是挖坑到现在都没填完</s>
-
-> 写码时很认真\
-> <s>于是总是失联</s>
-
-> 偶尔追剧、追小说\
-> <s>一追起来就忘了填坑</s>
 ---
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Programming Languages") Programming Languages
