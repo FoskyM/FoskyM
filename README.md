@@ -37,12 +37,10 @@
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/issue-closed-24.svg "Others") Others
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Office&color=eeeeee&logo=Microsoft%20Office&logoColor=D83B01&label= "Microsoft Office")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Photoshop&color=eeeeee&logo=Adobe%20Photoshop&logoColor=31A8FF&label= "Photoshop")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Premiere&color=eeeeee&logo=Adobe%20Premiere%20Pro&logoColor=9999FF&label= "Premiere")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=After%20Effects&color=eeeeee&logo=Adobe%20After%20Effects&logoColor=9999FF&label= "After Effects")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Audition&color=eeeeee&logo=Adobe%20Audition&logoColor=9999FF&label= "Audition")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=eeeeee&logo=Steam&logoColor=000000&label= "Steam")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Epic%20Games&color=eeeeee&logo=Epic%20Games&logoColor=313131&label= "Epic Games")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=PS&color=eeeeee&logo=Adobe%20Photoshop&logoColor=31A8FF&label= "Photoshop")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=PR&color=eeeeee&logo=Adobe%20Premiere%20Pro&logoColor=9999FF&label= "Premiere")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=AE&color=eeeeee&logo=Adobe%20After%20Effects&logoColor=9999FF&label= "After Effects")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=AU&color=eeeeee&logo=Adobe%20Audition&logoColor=9999FF&label= "Audition")
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Operating Systems") Operating Systems
 
