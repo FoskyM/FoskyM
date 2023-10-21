@@ -1,22 +1,5 @@
-## 关于
+![FoskyM's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoskyM&count_private=true&show_icons=true&theme=onedark)
 
-### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Programming Languages") Programming Languages
+![Metrics](https://metrics.lecoq.io/FoskyM?template=classic&base.hireable=true&isocalendar=1&languages=1&lines=1&achievements=1&followup=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&rss=false&rss.source=https%3A%2F%2Fblog.fosky.top%2Ffeed&rss.limit=4&config.timezone=Asia%2FShanghai)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoskyM&layout=compact&bg_color=15,f2f7fd,E0EAFC">
 
-### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg "IDEs / Editors") IDEs / Editors
-
-![](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=eeeeee&logo=PhpStorm&logoColor=000000&label= "PhpStorm")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Intellij%20IDEA&color=eeeeee&logo=IntellijIDEA&logoColor=000000&label= "Intellij IDEA")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio&color=eeeeee&logo=VisualStudio&logoColor=5C2D91&label= "Visual Studio")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Android%20Studio&color=eeeeee&logo=AndroidStudio&logoColor=3DDC84&label= "Android Studio")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=eeeeee&logo=Visual%20Studio%20Code&logoColor=007ACC&label= "Visual Studio Code")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=HBuilderX&color=eeeeee&logo=HTML5&logoColor=1aa034&label= "HBuilderX")
-
-### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Operating Systems") Operating Systems
-
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=eeeeee&logo=Windows&logoColor=0078D6&label= "Windows 11")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=eeeeee&logo=CentOS&logoColor=262577&label= "CentOS")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Kali%20Linux&color=eeeeee&logo=Kali%20Linux&logoColor=557C94&label= "Kali Linux")
-
-<img src="https://github-readme-stats.vercel.app/api?username=FoskyM&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC">
