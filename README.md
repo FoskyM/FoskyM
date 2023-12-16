@@ -6,7 +6,7 @@
 
 📈 Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=FoskyM)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=FoskyM&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 📈 Activity
 
@@ -14,4 +14,4 @@
 
 📈 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FoskyM)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FoskyM&theme=dracula)](https://git.io/streak-stats)
