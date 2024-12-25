@@ -43,7 +43,7 @@
 
 📈 Stats
 
-[![Stats]([https://github-readme-stats.vercel.app/api?username=FoskyM&theme=radical](https://gh-stats.vercel.fosky.top/api?username=FoskyM&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://gh-stats.vercel.fosky.top/api?username=FoskyM&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 📈 Activity
 
@@ -51,4 +51,4 @@
 
 📈 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FoskyM&theme=radica&hide_border=truel)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FoskyM&theme=radical&hide_border=true)](https://git.io/streak-stats)
