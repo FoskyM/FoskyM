@@ -47,7 +47,7 @@
 
 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FoskyM&amp;theme=radical&amp;hide_border=true" width="600px"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FoskyM&amp;theme=dracula&amp;hide_border=true" width="600px"/>
 
 📈 Streak
 
