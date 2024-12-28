@@ -43,12 +43,15 @@
 
 📈 Stats
 
-[![Stats](https://gh-stats.vercel.fosky.top/api?username=FoskyM&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://gh-stats.vercel.fosky.top/api?username=FoskyM&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)](https://fosky.top/#gh-dark-mode-only)
+[![Stats](https://gh-stats.vercel.fosky.top/api?username=FoskyM&show_icons=true&border_radius=10&include_all_commits=true&count_private=true)](https://fosky.top/#gh-light-mode-only)
 
-📈 Activity
+📈 Languages
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FoskyM&amp;theme=dracula&amp;hide_border=true" width="600px"/>
+[![Languages](https://gh-stats.vercel.fosky.top/api/top-langs/?username=FoskyM&layout=compact&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)](https://fosky.top/#gh-dark-mode-only)
+[![Languages](https://gh-stats.vercel.fosky.top/api/top-langs/?username=FoskyM&layout=compact&show_icons=true&border_radius=10&include_all_commits=true&count_private=true)](https://fosky.top/#gh-light-mode-only)
 
 📈 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FoskyM&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FoskyM&theme=radical&hide_border=true&border_radius=10)](https://fosky.top/#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FoskyM&border_radius=10)](https://fosky.top/#gh-light-mode-only)
